@@ -1,0 +1,27 @@
+/* don't forget to add semicolons after the items you add! */
+h1{
+  color:  black ;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  background-color:  #F8C471;
+}
+
+p{
+   color:  black ;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 50;
+  background-color: #F5B041
+   ;
+}
+
+body{
+background-color:  #EB984E; 
+
+}
+
+
+img{
+  width: 500px;
+
+}

@@ -1,0 +1,31 @@
+body {
+  background-color: #ef5df9ff;
+}
+
+#back {
+  float: middle;
+}
+
+#happy {
+  text-align: center;
+  color: #FFFF;
+}
+
+#heehee {
+  background-color: #0463f133;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  border-bottom-left-radius: 70% 15%;
+  border-bottom-right-radius: 70% 15%;
+  border-top-left-radius: 70% 15%;
+  border-top-right-radius: 70% 15%;
+}

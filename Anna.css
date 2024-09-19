@@ -1,0 +1,17 @@
+body {
+  background-color:#90C3FF;
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#happy {
+  text-align: center;
+  color: #FFF;
+}
+
+img {
+  border-bottom-left-radius: 15% 15%;
+  border-bottom-right-radius: 15% 15%;
+  border-top-left-radius: 15% 15%;
+  border-top-right-radius: 15% 15%;
+}

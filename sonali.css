@@ -1,0 +1,31 @@
+/* don't forget to add semicolons after the items you add! */
+body {
+  background-color: #1a1a1a;
+  font-family: Cambria;
+  margin: 2em;
+  color: dimgrey;
+
+}
+
+
+
+h1{
+  color: whitesmoke;
+  font-size: 24;
+  text-align: center;
+  background-color: darkgrey;
+  font-family: Cambria; 
+}
+
+p{
+  color: rgb(27, 88, 160);
+  font-size: 20;
+  text-align: center;
+ background-color: rgb(171, 218, 255);
+  font-family: Cambria; 
+}
+
+img{
+  width: 100;
+}
+

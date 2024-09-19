@@ -1,0 +1,14 @@
+html, body {
+  height: 1005;
+  width: 100%;
+  background-color:lightblue;
+  text-align: center;
+}
+
+h1 {
+  font-style: bold;
+}
+
+body{
+  color: white
+}

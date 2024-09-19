@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: blueviolet;
+  text-align: left;
+}
+  
+
+
+h1 {
+  font-style: italic;
+  font-family: 'Source Sans Pro', sans-serif;
+
+
+    text-align: center;
+    color #FFF;
+}
+
+
+body{
+  color: rgb(245, 66, 120);
+  font-family: Cambria;
+}
