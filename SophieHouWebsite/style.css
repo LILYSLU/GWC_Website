@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+  body {
+    font-family: 'Times New Roman', Times, serif;
+  color: black;
+    background-color: #ABD2FA;
+  }
+ul {
+  border-color: white;
+}
+  
